@@ -44,3 +44,13 @@ form button {
 #messages li:nth-child(odd) {
   background: #eee;
 }
+
+#chart {
+  margin: 10px;
+  text-align: center;
+}
+
+#counter {
+  margin: 10px;
+  text-align: center;
+}
